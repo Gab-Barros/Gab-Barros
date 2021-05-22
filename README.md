@@ -6,7 +6,7 @@
 ### Sobre mim
 Sou um estudante de front-end apaixonado por tecnologia. Gosto de código, gosto de design e como relacionar ambas as coisas para criar produtos incríveis. Abaixo as principais tecnologias e ferramentas que sei: 
 
-* HTMl
+* HTML
 * CSS
 * JavaScript
 * Vue
