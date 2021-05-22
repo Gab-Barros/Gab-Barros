@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel! Seja bem vindo ao meu github! :simple_smile:
+# Olá, eu sou o Gabriel! Seja bem vindo ao meu github! :smile:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gab-Barros)](https://github.com/Gab-Barros)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-barros-419bb3208/)](https://www.linkedin.com/in/gabriel-barros-419bb3208/)
