@@ -11,6 +11,6 @@ Sou um estudante de front-end apaixonado por tecnologia. Amo código, amo design
 * CSS
 * JavaScript
 * Vue
-* Versionamento de código
+* GIT
 * Design de interfaces
 * Figma
