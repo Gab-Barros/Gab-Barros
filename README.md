@@ -10,6 +10,9 @@ Sou um estudante de front-end apaixonado por tecnologia. Amo código, amo design
 * HTML
 * CSS
 * JavaScript
+* Wordpress
+* Bootstrap
+* React
 * Vue
 * GIT
 * Design de interfaces
